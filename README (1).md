@@ -51,6 +51,7 @@ The primary goal of using Lynis and OpenVAS is to:
 - Help organizations comply with security regulations  
 
 **Implementation Steps:**
+
 ![image](https://github.com/user-attachments/assets/41ca685a-aaef-4e54-a124-43695a002f9f)
 ![image](https://github.com/user-attachments/assets/a4056a40-8f93-4480-a62c-4e5e53281254)
 
